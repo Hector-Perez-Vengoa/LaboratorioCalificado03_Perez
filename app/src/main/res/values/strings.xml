@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado03_Perez</string>
+    <string name="teacher_image">Imagen del profesor</string>
+    <string name="error_loading">Error al cargar los datos</string>
+    <string name="call_teacher">Llamar al profesor</string>
+    <string name="email_teacher">Enviar correo al profesor</string>
+</resources>
